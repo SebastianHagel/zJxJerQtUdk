@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # React tutorial to create a Todolist
 =======
 # React tutorial to create a todolist
 >>>>>>> 3ecf42dc (react todoapp tutorial youtube zJxJerQtUdk)
+=======
+# React tutorial to create a Todolist
+>>>>>>> da34c6dc (React Todoapp tutorial youtube zJxJerQtUdk)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
